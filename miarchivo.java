@@ -1,5 +1,5 @@
 public class miarchivo {
     public static void main(String[] args) {
-        System.out.println("New Hola, GitHub!");
+        System.out.println("Hola, GitHub!");
     }
 }
